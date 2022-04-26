@@ -1,4 +1,3 @@
-# Goksel_Bahadir
 ## 👋 Hi, I’m @Dr Goksel Bahadir
 - 👀 I’m interested in Data Science
 - 🔭 I’m currently working on Machine Learning
