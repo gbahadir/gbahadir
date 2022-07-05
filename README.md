@@ -11,7 +11,7 @@
 <li>📙 Check out my profile on <a href="www.linkedin.com/in/goksel-bahadir">Linkedin</a></li>
 <li>📫 Reach me <strong>gbahadirmd@gmail.com </strong> </li>
   
-  ![Snake animation](https://https://github.com/gbahadir/Goksel_Bahadir/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gbahadir/Goksel_Bahadir/blob/main/github-contribution-grid-snake.svg)
   
 ## 🎨  Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
