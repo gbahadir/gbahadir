@@ -10,7 +10,7 @@
 <li>📙 Check out my profile on <a href="https://www.linkedin.com/in/goksel-bahadir">Linkedin</a></li>
 <li>📫 Reach me <strong>gbahadirmd@gmail.com </strong> </li>
   
-  ![Snake animation](https://github.com/gbahadir/Goksel_Bahadir/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gbahadir/gbahadir/blob/main/github-contribution-grid-snake.svg)
   
 ## 🎨  Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
@@ -46,7 +46,7 @@
   
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=gbahadir&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=bzynpb&theme=github&count_private=true)
   
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gbahadir.Goksel_Bahadir" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gbahadir.gbahadir" />
   
 <!--
-**gbahadir.Goksel_Bahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gbahadir.gbahadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
