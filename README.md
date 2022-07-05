@@ -6,7 +6,7 @@
 <li>🔭 👋 Hi, I’m <strong>Dr Goksel Bahadir </strong> </li>
 <li>🔭 Currently working as <strong>data analyst </strong> </li>
 <li>👀 I’m interested in <strong>data science </strong> </li>
-<li>👩‍🎓 <strong>Data Scientist </strong> trinee, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
+<li>👩‍🎓 <strong>Data Scientist </strong> trainee, learning about <strong>ML</strong>, <strong>DL</strong>, <strong>AI</strong>, and  <strong>NLP</strong></li>
 <li>📙 Check out my profile on <a href="https://www.linkedin.com/in/goksel-bahadir">Linkedin</a></li>
 <li>📫 Reach me <strong>gbahadirmd@gmail.com </strong> </li>
   
